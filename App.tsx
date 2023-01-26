@@ -46,7 +46,7 @@ export default function App() {
       </View>
       <View className='py-12 px-4 w-full rounded-lg'>
         <Text className='text-center text-white font-semibold my-2'>Account Balance</Text>
-        <Text className='text-4xl font-bold text-white text-center'>$100,000</Text>
+        <Text className='text-4xl font-bold text-white text-center'>$100,00</Text>
       </View>
       <View className='w-full rounded-2xl bg-white min-h-full p-2'>
         <Text className='text-lg font-bold p-2'>Assets</Text>
